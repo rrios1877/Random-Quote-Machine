@@ -1,0 +1,50 @@
+body {
+ background-image: url("http://static.wixstatic.com/media/4e4d65bd61ee510785a1678a8b5f0ca1.wix_mp_1024");
+  min-width:px;
+  font-family:'Arial','San-Serif','Garamond'';
+}
+h2 {
+ color:#6F8C6B;
+  font-size:40px;
+ letter-spacing:5px;
+ margin-top:40px;
+}
+.btn-success {
+  
+  font-family:sans-serif;
+  
+}
+.btn-primary{
+  font-family:sans-serif;
+}
+.quotes{
+  background-color:#6F8C6B;
+  width:40%;
+  margin-right:auto;
+  margin-left:auto;
+  margin-top:20px;
+  color:black;
+  border-style:solid;
+  border-color:;
+  border-radius:5px;
+  padding:20px;
+  min-height:auto;
+}
+.quote {
+  font-size:30px;
+  
+}
+
+.author {
+  font-size:20px;
+  font-style:italic;
+  color:green;
+}
+.movie{
+  font-size:15px;
+  font-style:italic;
+  color:black;
+  
+
+
+
